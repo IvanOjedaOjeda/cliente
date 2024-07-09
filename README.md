@@ -11,6 +11,6 @@
 </ol>
 
 <h3>Despliegue</h3>
-<p>Link para acceder a la app desplegada en vercel</p>
-https://client-proyecto-5.vercel.app/
+
+
 
