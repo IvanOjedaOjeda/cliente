@@ -1,6 +1,6 @@
 
 import { Link } from 'react-router-dom'
-import BackgroundJumbotron from './../assets/men-723557_1920.jpg'
+import BackgroundJumbotron from './../assets/Sala de baño.png'
 import ListGuitars from './ListGuitars'
 
 export default function Main() {

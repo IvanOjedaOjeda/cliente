@@ -30,10 +30,10 @@ export default function Footer() {
 
           </div>
           <p className="mt-8 text-center text-base text-gray-400">
-            &copy; 2021. Todos los derechos reservados.
+            &copy; 2024. Todos los derechos reservados.
           </p>
           <p className="text-center text-base text-gray-400">
-            Esta es una tienda electrónica ficticia con objetivos académicos y de aprendizaje.
+            Realizada por Iván Ojeda - ivan.ojeda@gmail.com
           </p>
         </div>
       </footer>

@@ -4,7 +4,7 @@ import ListCuadros from './ListGuitars'
 export default function Catalog() {
     return (
         <div>
-            <ListCuadros title="Todas los cuadros" />
+            <ListCuadros title="Todos los cuadros" />
         </div>
     )
 }
